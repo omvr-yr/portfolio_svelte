@@ -71,10 +71,10 @@
 		},
 		{
 			title: 'Fuel Cell Dashboard',
-			href: 'https://github.com/omvr-yr/rt_dashboard_js',
+			href: 'https://youtu.be/8R2xeAa5KsE',
 			src: 'image/logo-rt.png',
 			desc: 'A responsive dashboard to monitor a hydrogen fuel cell with on-board Raspberry PI. An AI powered chatbot is intergrated, and also a Google Maps map to find an advisor next to us.f',
-			gitUrl: 'https://github.com/omvr-yr/rt_dashboard_js',
+			gitUrl: 'https://youtu.be/8R2xeAa5KsE',
 			tags: ['Javascript', 'React', 'AI Chatbot']
 		},
 		{
