@@ -63,7 +63,7 @@
 		},
 		{
 			title: 'Pacman',
-			href: 'https://github.com/omvr-yr/java_pacman',
+			href: 'https://youtu.be/TsEL8npsvBc',
 			src: 'image/logo-pacman.png',
 			desc: 'An entire Pacman game coded in Java using Gradle. The game features 3 different levels, a scoring system, music and a skin store. Even better than the original game :)',
 			gitUrl: 'https://github.com/omvr-yr/java_pacman',
