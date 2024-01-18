@@ -54,6 +54,14 @@
 
 	const projects = [
 		{
+			title: 'Tower Defense',
+			href: 'https://youtu.be/aCwHLZKfbY0',
+			src: 'image/logo-tower-defense.png',
+			desc: 'Full game with 6 different game modes. All the explanations are in the attached GitHub Compte Rendu.pdf.',
+			gitUrl: 'https://github.com/omvr-yr/tower_defense_swing',
+			tags: ['Swing', 'GUI']
+		},
+		{
 			title: 'FITSHARE Social Network',
 			href: 'https://github.com/omvr-yr/FITSHARE_social_network',
 			src: 'image/logo-fitshare.png',
