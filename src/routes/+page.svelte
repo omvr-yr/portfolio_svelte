@@ -161,9 +161,9 @@
 		<section class="mb-12">
 			<h2 class="flex mb-2 text-2xl title"><span>Certifications</span></h2>
 			<ul class="mt-2">
-				<li>Baccalaureate - Specialization Mathematics and Physics-chemistry <span class="text-slate-400">2021</span></li>
-				<li>Bachelor Computer Science – Univeristy Paris Cité <span class="text-slate-400">2021-2024</span></li>
-				<li>Google Cybersecurity - 6 months Certification<span class="text-slate-400">2023</span></li>
+				<li>Baccalaureate - Specialization Mathematics and Physics-chemistry <span class="text-slate-400">2022</span></li>
+				<li>Bachelor Computer Science – Univeristy Paris Cité <span class="text-slate-400">2022-2024</span></li>
+				<li>Google Cybersecurity - 6 months Certification <span class="text-slate-400">2023</span></li>
 				<li>Blue Team Level 1 – Junior SOC Certification (4 months) <span class="text-slate-400">2023</span></li>
 				<li>AWS Solution Architect – Assosiate Level <span class="text-slate-400">2023</span></li>
 			</ul>
