@@ -115,7 +115,7 @@
 			Developper
 		</h2>
 		<p class="max-w-xs mt-4 mb-12 leading-normal text-slate-400">
-			A French coder for more than 5 years, I'm particularly interested in cloud computing and increasingly in cybersecurity.<br><br> I recently fouded <a href="https://scio-edu.com">SCIO</a> an EdTech startup !
+			A French coder for more than 5 years, I'm particularly interested in cloud computing and increasingly in cybersecurity.<br><br> I recently fouded <u><a href="https://scio.education">SCIO</a></u> an EdTech startup !
 		</p>
 
 		<button class="w-48 h-12 px-4 py-2 font-medium uppercase colliding" on:click={copyEmail}
